@@ -1,5 +1,5 @@
 
-    - # Stereo Vision: Estimating Camera Pose from Stereo Images
+# Stereo Vision: Estimating Camera Pose from Stereo Images
 
 This project demonstrates the process of estimating the camera pose (rotation and translation) from a pair of stereo images using the ORB feature detector and descriptor, BFMatcher for feature matching, and calculating the essential matrix to recover the camera pose. Additionally, it includes error metrics for evaluating the accuracy of the estimated camera pose.
 
